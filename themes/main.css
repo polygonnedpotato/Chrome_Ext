@@ -4,27 +4,38 @@ body {
     font-size: 13px;
     color:#333
 }
+.popup {
+    width: 500px;
+    height: 500px
+}
 p {
-    padding: 10px;
+    padding: 0px;
 }
 #wrapper {
     margin: 0 auto;
     width: 1000px;
 }
 #header {
-    float: left;
-    height: 25px;
-    width: 1000px;
+    float: center;
+    width: 250px;
+    height: 12px;
+    font-size: 10px;
+    text-align: center;
+    padding: auto;
     background: #00C3FF;
 }
 #content {
-    float: left;
+    float: center;
+    text-align: center;
     background: #FFFFFF;
     width: 1000;
 }
 #footer {
-    height: 10px;
-    width: 1000px;
+    float: center;
+    height: 12px;
+    font-size: 10px;
+    text-align: center;
+    padding: auto;
     background: #E3DEDE;
     clear: both;
 }
