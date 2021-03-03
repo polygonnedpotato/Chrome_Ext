@@ -1,10 +1,11 @@
 {
     "name": "WebCorrupter",
     "description" : "make websites go nuts",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "manifest_version": 3,
     "action": {
       "default_popup": "controller.html",
-      "default_icon": "/res/currenticon.svg"
+      "default_icon": "/res/currenticon.svg",
+      "options_page": "config.html"
     }
   }
