@@ -13,4 +13,4 @@ function saveconfig(action) {
         console.error("Could not recognize " + action + " as a valid action. Perhaps the syntax is incorrect?")
     }
 }
-con
+console.log("ready")
