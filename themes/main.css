@@ -1,12 +1,12 @@
-@import url("reset.css");
+@import url("/res/reset.css");
 body {
     font-family: Verdana, Arial, Helvetica, sans-serif;
     font-size: 13px;
-    color:#333
+    color:#333;
 }
 .popup {
     width: 500px;
-    height: 500px
+    height: 500px;
 }
 p {
     padding: 0px;
